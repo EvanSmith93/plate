@@ -1,5 +1,11 @@
 # @udecode/plate-core
 
+## 36.1.1
+
+### Patch Changes
+
+- [`88592ceff25fb6c3882f3e5e5b366e8a41d92d01`](https://github.com/udecode/plate/commit/88592ceff25fb6c3882f3e5e5b366e8a41d92d01) by [@zbeyens](https://github.com/zbeyens) – Fix rsc: remove useFocusEditorEvents from server bundle
+
 ## 36.0.6
 
 ## 36.0.3
